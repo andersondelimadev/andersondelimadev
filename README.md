@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer & UI/UX Designer.</h3>
 
 <p align="center">
-  <a href="https://anderson-crush-dev.vercel.app"><b>🌐 Portfolio</b></a> • 
+  <a href="https://andersondelima.vercel.app"><b>🌐 Portfolio</b></a> • 
   <a href="https://smashcompendium.com/"><b>🎮 Super Smash Bros Museum</b></a> • 
   <a href="https://www.linkedin.com/in/andersondelimacomputacao/"><b>💼 LinkedIn</b></a> • 
   <a href="https://www.instagram.com/andersoncrushdev/"><b>📸 Instagram</b></a>
@@ -118,7 +118,7 @@
 - **Data pipeline:** 50+ ETL scrapers (Playwright, Cheerio, Tesseract OCR, Sharp) feeding S3-compatible storage
 - **Observability:** Vercel Analytics + Speed Insights
 
-#### 💼 [Anderson Crush Dev Portfolio](https://anderson-crush-dev.vercel.app) — [repo](https://github.com/andersondelimadev/anderson-crush-dev)
+#### 💼 [Anderson de Lima — Portfolio](https://andersondelima.vercel.app) — [repo](https://github.com/andersondelimadev/anderson-crush-dev)
 > Personal portfolio with projects, academic work and a statically generated blog.
 
 - 15 blog posts pre-rendered with `generateStaticParams` + per-post metadata · PT/EN language switch · light/dark theme (`next-themes`)
