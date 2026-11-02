@@ -95,7 +95,6 @@
 ### 🤝 Where I'm Active Right Now
 
 - **Synapse Lab** — Web Design & technical support for a CNPq/UNIFOR-certified health-tech research group, in partnership with UFC.
-- **Oryon System** — UI/UX Junior, prototyping screens and design systems for a vehicle-tracking ERP/CRM.
 - **[CODA.CE](https://coda-ce.com.br/)** — Volunteer Project Lead for Ceará's developer community: logistics/reception at FrontEnd Day Fortaleza and mentoring teams through the 72-hour CODA.CE Hackathon (Unifor Hub edition).
 - **UNIFOR** — Teaching Assistant (Fundamentos de Sistemas Computacionais), a position awarded on academic merit.
 
