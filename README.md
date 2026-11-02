@@ -51,9 +51,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 **UI/UX:**
@@ -78,7 +75,6 @@
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kanban-2684FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean_Code-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Unit_%26_Integration_Testing-25A162?style=for-the-badge" />
 </p>
 
