@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer & UI/UX Designer.</h3>
 
 <p align="center">
-  <a href="https://andersondelima.vercel.app"><b>🌐 Portfolio</b></a> • 
+  <a href="https://andersoncrush.dev"><b>🌐 Portfolio</b></a> • 
   <a href="https://smashcompendium.com/"><b>🎮 Super Smash Bros Museum</b></a> • 
   <a href="https://www.linkedin.com/in/andersondelimacomputacao/"><b>💼 LinkedIn</b></a> • 
   <a href="https://www.instagram.com/andersoncrushdev/"><b>📸 Instagram</b></a>
@@ -118,7 +118,7 @@
 - **Data pipeline:** 50+ ETL scrapers (Playwright, Cheerio, Tesseract OCR, Sharp) feeding S3-compatible storage
 - **Observability:** Vercel Analytics + Speed Insights
 
-#### 💼 [Anderson de Lima — Portfolio](https://andersondelima.vercel.app) — [repo](https://github.com/andersondelimadev/anderson-crush-dev)
+#### 💼 [Anderson de Lima — Portfolio](https://andersoncrush.dev) — [repo](https://github.com/andersondelimadev/anderson-crush-dev)
 > Personal portfolio with projects, academic work and a statically generated blog.
 
 - 15 blog posts pre-rendered with `generateStaticParams` + per-post metadata · PT/EN language switch · light/dark theme (`next-themes`)
@@ -140,10 +140,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ACrush14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ACrush14's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACrush14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andersondelimadev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondelimadev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ACrush14&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersondelimadev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
